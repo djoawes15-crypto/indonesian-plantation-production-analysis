@@ -52,3 +52,9 @@ This section presents the clustering results, data visualizations, and interpret
 Alfredo Grasia Valdano
 
 Information Systems Graduate
+
+## Python Notebook
+
+The complete Python analysis notebook can be accessed below:
+
+[View Python Notebook](notebooks/plantation_production_analysis.ipynb)
